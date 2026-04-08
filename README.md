@@ -24,7 +24,7 @@ GROUP A
 - conversions 100
 - conversion 10%
 GROUP B
-- users 1000
+- users 1200
 - conversions 120
 - conversion 12%
 
